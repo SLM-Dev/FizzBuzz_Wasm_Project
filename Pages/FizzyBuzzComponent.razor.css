@@ -1,0 +1,16 @@
+﻿.text-fizz {
+    color: hotpink;
+}
+
+.text-buzz {
+    color: yellow;
+}
+
+.col > div {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+}
+
+
+
